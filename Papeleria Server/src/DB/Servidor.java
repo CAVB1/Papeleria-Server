@@ -16,6 +16,10 @@ import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+import DB.Inventario;
+import DB.Ventas;
+import DB.ResultSetSender;
+
 /**
  *
  * @author ville
